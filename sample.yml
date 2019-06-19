@@ -1,0 +1,8 @@
+connections:
+  - name: "cme-ilink"
+    type: "cme"
+    host1: "xxx.xxx.xxx.xxx"
+  - name: "tt-fix"
+    type: "tt"
+    host1: "xxx.xxx.xxx.xxx"
+
